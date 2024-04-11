@@ -6,7 +6,11 @@ namespace ProjetoV1
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+
+
+			//Leitura Basico
+
+			LeituraDados.lerDados();
 		}
 	}
 }
